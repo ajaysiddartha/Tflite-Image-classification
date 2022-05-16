@@ -2,7 +2,7 @@
 
 For building the image classifier model, Jupyper Notebook(anaconda) is required and Tflite package to be installed. Using the below command Tflite package can be installed.
 
-  -pip install -q tflite-model-maker
+# pip install -q tflite-model-maker
   
 Android studio with Flutter SDK installed in the PC is required to build the mobile application.
 
