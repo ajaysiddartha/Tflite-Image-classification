@@ -7,3 +7,5 @@ FOR IOS:
  
 FOR ANDROID:
   - Apk file will be generated, using which the application can be installed in any android phone.
+
+APK file can be downloaded from this link.
