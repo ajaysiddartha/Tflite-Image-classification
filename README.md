@@ -8,4 +8,5 @@ FOR IOS:
 FOR ANDROID:
   - Apk file will be generated, using which the application can be installed in any android phone.
 
-APK file can be downloaded from this link.
+APK file can be downloaded from the below link.
+https://drive.google.com/file/d/1LTFLTYujDXl09HhIs6pNblr_UWzcgzs9/view?usp=sharing
